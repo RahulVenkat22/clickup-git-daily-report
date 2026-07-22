@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime output (keep the folder structure, ignore the daily files)
+logs/*.log
+data/tasks/*.md
+data/diffs/*.md
+data/reports/*.md
